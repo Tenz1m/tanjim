@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tanjim/static/css/main.31d6cfe0.css",
+    "main.js": "/tanjim/static/js/main.886623dd.js",
+    "static/js/787.507371cb.chunk.js": "/tanjim/static/js/787.507371cb.chunk.js",
+    "index.html": "/tanjim/index.html",
+    "main.886623dd.js.map": "/tanjim/static/js/main.886623dd.js.map",
+    "787.507371cb.chunk.js.map": "/tanjim/static/js/787.507371cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.886623dd.js"
+  ]
+}
